@@ -1,0 +1,5 @@
+Example in C:
+print ("Hello World\n");
+
+in Java:
+System.out.println("Hello World");

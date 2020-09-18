@@ -1,8 +1,8 @@
-The popular programming languages using  print "Hello World" like
-0) C
-1) C++
-2) Java
-3) Python
-4) Java Scripts
-I think C language is the first introduce "Hello World".
+The popular programming languages using print "Hello World" like
+1) C
+2) C++
+3) Java
+4) Python
+5) Java Scripts
+
 
