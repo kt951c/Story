@@ -1,2 +1,4 @@
+
 The story continues in chapter 2 for Hello World
-Hello World is a common print string for learning programming languages such as C, C++ etc.
+Printing "Hellolo World" string is 1st example program for learning a new programming languages such as C, C++ etc.
+
