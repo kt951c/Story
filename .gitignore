@@ -1,0 +1,5 @@
+# This is comment for gitignore
+
+# All the file with extension txt will not get commit
+
+file.txt
